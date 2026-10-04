@@ -6,7 +6,8 @@ The **Hospital Operations & Revenue Cycle Management (RCM) Analysis** is an inte
 ---
 The dashboard provides a consolidated view of key hospital KPIs and helps identify department-level profitability, insurance claim outcomes, patient admission patterns, monthly financial performance, and payment sources.
 ## 📊Dashboard Overview
-<img width="1677" height="851" alt="Dashboard" src="https://github.com/user-attachments/assets/a3d48827-0d29-4052-bb07-14b91b0c5a07" />
+<img width="1677" height="851" alt="Dashboard" src="https://github.com/user-attachments/assets/88211ca1-7788-4390-b424-f5c0b5b151ff" />
+
 
 ---
 
